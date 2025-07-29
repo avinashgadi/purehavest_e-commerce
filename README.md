@@ -63,9 +63,10 @@ Pure Harvest was developed as a **collaborative group project** to demonstrate f
 
 | Name       | GitHub                                     |
 | ---------- | ------------------------------------------ |
+| Avinash | [@avinashgadi](https://github.com/avinashgadi)   |
 | Ajay       | [@olapuajay](https://github.com/olapuajay) |
 | Akshaya | [@easyints05](https://github.com/easyints05)   |
 | Abhinav | [@abhinavbestha26](https://github.com/abhinavbestha26)   |
-| Avinash | [@avinashgadi](https://github.com/avinashgadi)   |
+
 
 
