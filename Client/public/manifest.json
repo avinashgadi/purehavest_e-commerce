@@ -1,0 +1,21 @@
+{
+  "short_name": "Pure Harvest",
+  "name": "Pure Harvest",
+  "icons": [
+    {
+      "src": "icons/logo-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/logo-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#000000"
+}
