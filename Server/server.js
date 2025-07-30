@@ -25,7 +25,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173",
-  "https://pureharvest-mern.vercel.app"
+  "https://purehavest-e-commerce.vercel.app/"
 ];
 app.use(cors({
   origin: allowedOrigins,
